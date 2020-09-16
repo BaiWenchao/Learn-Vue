@@ -1,0 +1,25 @@
+{
+  "name": "learn-vue",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint-init": "eslint --init",
+    "eslint": "eslint",
+    "eslint-fix": "eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaiWenchao/Learn-Vue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Wenchao Bai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaiWenchao/Learn-Vue/issues"
+  },
+  "homepage": "https://github.com/BaiWenchao/Learn-Vue#readme"
+}
